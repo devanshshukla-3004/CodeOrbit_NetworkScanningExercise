@@ -1,0 +1,9 @@
+Starting Nmap 7.94SVN at 2026-09-30 07:12 UTC
+Nmap scan report for localhost (127.0.0.1)
+Host is up.
+Not shown: 65532 closed tcp ports
+PORT     STATE SERVICE    VERSION
+2024/tcp open  tcpwrapped
+2025/tcp open  tcpwrapped
+8080/tcp open  http       SimpleHTTPServer 0.6 (Python 3.12.3)
+Nmap done: 1 IP address (1 host up) scanned in 12.00 seconds
