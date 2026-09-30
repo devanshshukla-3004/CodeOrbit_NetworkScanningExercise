@@ -1,0 +1,4 @@
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/3.12.3
+Content-type: text/html
+Content-Length: 21
